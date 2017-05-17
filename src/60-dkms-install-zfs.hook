@@ -18,4 +18,4 @@ Target = usr/lib/modules/*/kernel/
 Description = Installing ZFS
 Depends = dkms
 When = PostTransaction
-Exec = /usr/share/libalpm/hooks/dkms-install-zfs
+Exec = /usr/bin/dkms-install-zfs

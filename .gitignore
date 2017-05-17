@@ -1,7 +1,2 @@
-archlive
-tmp
-target
-*~
-*.iso
-*.iml
-.idea
+*.tar.xz
+pkg
